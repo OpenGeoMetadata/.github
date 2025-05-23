@@ -24,3 +24,7 @@ Repositories that contain code are labeled with
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+## Open Licenses
+
+Contributors may consider adding an open license to their metadata repositories, such as CC0 1.0 Universal https://creativecommons.org/publicdomain/zero/1.0/
