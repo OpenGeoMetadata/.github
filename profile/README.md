@@ -11,6 +11,8 @@ Metadata repositories are labeled by the type of metadata they contain:
 
 - [gbl-1](https://github.com/search?q=topic%3Agbl-1+org%3AOpenGeoMetadata&type=Repositories) - includes metadata in the [GeoBlacklight 1.0 schema](https://opengeometadata.org/gbl-1.0/)
 
+Repositories that contain code are labeled with
+- [metadata-tool](https://github.com/topics/metadata-tool)
 
 <!--
 
